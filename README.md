@@ -87,6 +87,6 @@ Cloud Deployment
 Author:
 
 Fion S. Sheen, S.R Nandhan, Aju B.S, Afzal B.R
-Plotly
-Scikit-learn
-Joblib
+
+License:
+MIT License
