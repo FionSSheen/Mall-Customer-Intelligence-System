@@ -1,0 +1,202 @@
+Customer_ID,Customer_Name,Email,Phone,Age,Gender,City,Membership_Type,Avg_Spending,Visit_Frequency,Time_Spent_Minutes,Spending_Score,Category_Preference,Offers_Used,Discount_Availed,Join_Date,Last_Purchase_Date,Fashion_Spending,Entertainment_Spending,Food_Spending,Electronics_Spending
+1,zoe anderson,zoe.anderson@email.com,+1-578-796-3426,56.0,Male,San Antonio,Silver,1382.0,3,85.0,56.0,Food,No,Yes,2025-06-14,2026-06-05,552.8,552.8,2487.6,552.8
+2,sophia scott,sophia.scott@email.com,+1-640-330-1685,69.0,Female,Phoenix,Silver,660.0,5,36.0,12.0,Fashion,Yes,Yes,2025-06-01,2026-05-10,1980.0,440.0,440.0,440.0
+3,ella lewis,ella.lewis@email.com,+1-515-573-1653,46.0,Female,Nashville,Gold,819.0,9,94.0,48.0,Fashion,No,Yes,2026-05-25,2026-06-05,4422.6,982.8,982.8,982.8
+4,harper wilson,harper.wilson@email.com,+1-566-415-5088,32.0,Male,Detroit,Gold,495.0,7,56.0,48.0,Food,No,Yes,2024-10-23,2026-04-13,462.0,462.0,2079.0,462.0
+5,frank reed,frank.reed@email.com,+1-882-305-6794,60.0,Female,Chicago,Gold,256.002,5,44.0,32.0,Food,No,No,2024-12-19,2026-07-06,170.67,170.67,768.0,170.67
+6,mia diaz,mia.diaz@email.com,+1-998-773-7658,25.0,Male,Jacksonville,Gold,950.0,6,57.0,76.0,Electronics,Yes,Yes,2025-06-10,2026-05-09,760.0,760.0,760.0,3420.0
+7,william brown,william.brown@email.com,+1-835-967-3532,38.0,Male,San Francisco,Silver,1566.9975,4,42.0,53.0,Food,Yes,No,2025-09-02,2026-06-01,835.73,835.73,3760.8,835.73
+8,mia ramirez,mia.ramirez@email.com,+1-442-366-3900,56.0,Male,Denver,Regular,826.9979999999999,5,24.0,48.0,Entertainment,Yes,No,2026-06-18,2026-04-12,551.33,2481.0,551.33,551.33
+9,avery cook,avery.cook@email.com,+1-622-225-3938,36.0,Male,Phoenix,Silver,1159.002,5,23.0,52.0,Food,No,Yes,2025-11-27,2026-04-29,772.67,772.67,3477.0,772.67
+10,brooklyn brown,brooklyn.brown@email.com,+1-954-540-7745,40.0,Female,Nashville,Silver,1031.0025,4,85.0,21.0,Electronics,No,No,2025-04-29,2026-06-17,549.87,549.87,549.87,2474.4
+11,natalie sanchez,natalie.sanchez@email.com,+1-885-952-5065,28.0,Male,Las Vegas,Regular,2595.0,7,79.0,78.0,Entertainment,Yes,No,2026-05-17,2026-06-28,2422.0,10899.0,2422.0,2422.0
+12,audrey reed,audrey.reed@email.com,+1-473-363-2771,28.0,Female,Columbus,Silver,372.9985714285714,7,68.0,72.0,Electronics,Yes,No,2025-08-22,2026-05-12,348.13,348.13,348.13,1566.6
+13,lillian lewis,lillian.lewis@email.com,+1-591-239-8711,41.0,Female,Phoenix,Silver,1317.0,8,41.0,96.0,Fashion,Yes,No,2026-01-22,2026-05-24,6321.6,1404.8,1404.8,1404.8
+14,zoey scott,zoey.scott@email.com,+1-427-404-8541,70.0,Male,Charlotte,Gold,1647.0,5,74.0,62.0,Electronics,Yes,No,2024-08-14,2026-04-23,1098.0,1098.0,1098.0,4941.0
+15,john lee,john.lee@email.com,+1-558-512-4728,53.0,Female,Indianapolis,Platinum,1430.01,1,34.0,4.0,Electronics,Yes,No,2025-10-16,2026-05-30,190.67,190.67,190.67,858.0
+16,paisley diaz,paisley.diaz@email.com,+1-428-224-4164,57.0,Female,Columbus,Silver,711.0,5,62.0,22.0,Food,No,Yes,2024-10-06,2026-04-17,474.0,474.0,2133.0,474.0
+17,chloe scott,chloe.scott@email.com,+1-608-536-5564,41.0,Male,Washington,Regular,1179.9985714285715,7,46.0,18.0,Entertainment,No,No,2025-05-26,2026-05-14,1101.33,4956.0,1101.33,1101.33
+18,evelyn ramirez,evelyn.ramirez@email.com,+1-271-991-5573,20.0,Female,Phoenix,Regular,3006.0,9,86.0,4.0,Entertainment,Yes,No,2025-03-23,2026-04-10,3607.2,16232.4,3607.2,3607.2
+19,chloe wilson,chloe.wilson@email.com,+1-559-856-9346,39.0,Male,Jacksonville,Platinum,102.0,7,135.0,69.0,Entertainment,Yes,Yes,2025-06-04,2026-06-05,95.2,428.4,95.2,95.2
+20,mia carter,mia.carter@email.com,+1-609-895-9785,70.0,Male,San Francisco,Platinum,511.00200000000007,5,25.0,79.0,Fashion,Yes,Yes,2024-11-03,2026-05-10,1533.0,340.67,340.67,340.67
+21,richard rivera,richard.rivera@email.com,+1-539-228-2889,19.0,Male,San Francisco,Regular,1013.0,3,55.0,17.0,Food,Yes,No,2025-08-25,2026-05-30,405.2,405.2,1823.4,405.2
+22,george king,george.king@email.com,+1-467-382-5349,41.0,Female,Boston,Silver,786.9975,4,187.0,39.0,Food,Yes,Yes,2025-12-16,2026-06-12,419.73,419.73,1888.8,419.73
+23,olivia collins,olivia.collins@email.com,+1-239-311-8119,61.0,Female,San Antonio,Regular,331.002,5,44.0,68.0,Food,Yes,No,2024-07-09,2026-05-19,220.67,220.67,993.0,220.67
+24,stephen thomas,stephen.thomas@email.com,+1-553-946-6139,47.0,Male,Houston,Regular,521.0,6,43.0,52.0,Electronics,No,Yes,2026-05-12,2026-05-07,416.8,416.8,416.8,1875.6
+25,ronald hernandez,ronald.hernandez@email.com,+1-646-820-9379,55.0,Male,New York,Regular,546.0,7,107.0,1.0,Entertainment,Yes,Yes,2026-01-14,2026-06-24,509.6,2293.2,509.6,509.6
+26,larry nguyen,larry.nguyen@email.com,+1-318-594-4114,19.0,Female,Phoenix,Regular,261.0,11,57.0,35.0,Entertainment,Yes,Yes,2025-10-24,2026-06-07,382.8,1722.6,382.8,382.8
+27,samuel campbell,samuel.campbell@email.com,+1-460-245-8144,38.0,Male,Detroit,Platinum,1225.0,3,64.0,34.0,Entertainment,No,Yes,2025-09-04,2026-05-20,490.0,2205.0,490.0,490.0
+28,luna harris,luna.harris@email.com,+1-201-732-9821,50.0,Male,San Jose,Silver,1368.0,6,142.0,50.0,Electronics,No,No,2024-09-01,2026-04-25,1094.4,1094.4,1094.4,4924.8
+29,patrick rodriguez,patrick.rodriguez@email.com,+1-903-936-4228,29.0,Female,Nashville,Regular,515.0,6,83.0,58.0,Fashion,Yes,No,2025-01-16,2026-05-23,1854.0,412.0,412.0,412.0
+30,olivia robinson,olivia.robinson@email.com,+1-572-641-2146,39.0,Female,Phoenix,Gold,466.00200000000007,5,47.0,79.0,Food,Yes,No,2025-12-20,2026-04-25,310.67,310.67,1398.0,310.67
+31,victoria hernandez,victoria.hernandez@email.com,+1-880-538-6143,61.0,Male,Houston,Platinum,1482.0,8,109.0,26.0,Entertainment,Yes,Yes,2025-07-13,2026-05-31,1580.8,7113.6,1580.8,1580.8
+32,avery gonzalez,avery.gonzalez@email.com,+1-879-327-5920,42.0,Female,Los Angeles,Platinum,145.0,12,48.0,28.0,Food,No,Yes,2026-04-06,2026-04-09,232.0,232.0,1044.0,232.0
+33,ronald scott,ronald.scott@email.com,+1-719-516-7691,66.0,Female,Washington,Regular,1242.9985714285717,7,44.0,65.0,Entertainment,No,No,2025-11-30,2026-05-31,1160.13,5220.6,1160.13,1160.13
+34,jacob campbell,jacob.campbell@email.com,+1-534-612-5844,44.0,Male,San Jose,Regular,1039.0,6,97.0,12.0,Electronics,No,No,2026-04-09,2026-07-05,831.2,831.2,831.2,3740.4
+35,daniel mitchell,daniel.mitchell@email.com,+1-767-330-4143,59.0,Female,Denver,Regular,2902.005,2,62.0,61.0,Electronics,Yes,Yes,2025-10-03,2026-04-14,773.87,773.87,773.87,3482.4
+36,camila clark,camila.clark@email.com,+1-630-880-7211,45.0,Male,New York,Regular,172.998,5,95.0,67.0,Food,No,Yes,2024-08-29,2026-05-18,115.33,115.33,519.0,115.33
+37,hazel wright,hazel.wright@email.com,+1-893-966-3851,33.0,Female,Portland,Regular,438.0,5,161.0,40.0,Electronics,Yes,Yes,2025-02-01,2026-06-02,292.0,292.0,292.0,1314.0
+38,paisley martinez,paisley.martinez@email.com,+1-830-782-5930,32.0,Female,Phoenix,Silver,869.0,9,19.0,26.0,Entertainment,Yes,No,2025-04-07,2026-07-06,1042.8,4692.6,1042.8,1042.8
+39,brooklyn perez,brooklyn.perez@email.com,+1-615-761-1006,64.0,Female,Fort Worth,Regular,114.9975,4,44.0,51.0,Fashion,Yes,No,2026-01-21,2026-04-26,276.0,61.33,61.33,61.33
+40,stephen young,stephen.young@email.com,+1-511-493-4443,68.0,Male,Houston,Regular,430.0,9,50.0,64.0,Electronics,Yes,Yes,2024-11-19,2026-04-11,516.0,516.0,516.0,2322.0
+41,daniel reyes,daniel.reyes@email.com,+1-640-793-6279,61.0,Female,San Francisco,Regular,2490.0,8,21.0,8.0,Food,Yes,Yes,2025-04-28,2026-07-01,2656.0,2656.0,11952.0,2656.0
+42,ronald wright,ronald.wright@email.com,+1-676-652-8244,69.0,Male,Portland,Regular,812.0024999999999,4,54.0,67.0,Electronics,No,No,2025-09-29,2026-04-21,433.07,433.07,433.07,1948.8
+43,zoe bell,zoe.bell@email.com,+1-891-418-9375,20.0,Male,San Francisco,Regular,1490.0,6,61.0,61.0,Food,No,Yes,2026-06-23,2026-05-05,1192.0,1192.0,5364.0,1192.0
+44,mark adams,mark.adams@email.com,+1-684-953-3780,54.0,Male,Detroit,Silver,1668.9975,4,10.0,70.0,Food,Yes,Yes,2025-11-16,2026-06-01,890.13,890.13,4005.6,890.13
+45,ava robinson,ava.robinson@email.com,+1-874-286-5649,68.0,Female,Los Angeles,Regular,1334.0014285714285,7,106.0,54.0,Entertainment,Yes,Yes,2024-11-09,2026-06-08,1245.07,5602.8,1245.07,1245.07
+46,william green,william.green@email.com,+1-727-879-6491,24.0,Female,Indianapolis,Regular,373.002,5,38.0,28.0,Food,Yes,Yes,2024-08-06,2026-04-21,248.67,248.67,1119.0,248.67
+47,layla wright,layla.wright@email.com,+1-295-969-4848,38.0,Male,Washington,Silver,890.0014285714286,7,56.0,49.0,Fashion,Yes,Yes,2026-04-14,2026-05-23,3738.0,830.67,830.67,830.67
+48,robert ramirez,robert.ramirez@email.com,+1-888-517-4680,26.0,Female,Portland,Silver,358.99875000000003,8,102.0,75.0,Electronics,Yes,No,2026-03-23,2026-06-09,382.93,382.93,382.93,1723.2
+49,justin green,justin.green@email.com,+1-403-350-1400,56.0,Male,Jacksonville,Regular,869.0025,4,28.0,61.0,Fashion,No,No,2025-03-10,2026-04-17,2085.6,463.47,463.47,463.47
+50,sofia murphy,sofia.murphy@email.com,+1-247-450-8784,35.0,Female,Seattle,Regular,3722.0024999999996,4,58.0,14.0,Electronics,Yes,No,2026-07-04,2026-06-13,1985.07,1985.07,1985.07,8932.8
+51,edward collins,edward.collins@email.com,+1-825-986-2193,21.0,Male,Chicago,Regular,2120.0,6,24.0,53.0,Electronics,Yes,No,2024-12-17,2026-04-19,1696.0,1696.0,1696.0,7632.0
+52,charles king,charles.king@email.com,+1-666-624-4185,42.0,Female,New York,Platinum,562.995,2,56.0,35.0,Entertainment,Yes,Yes,2025-05-22,2026-06-05,150.13,675.6,150.13,150.13
+53,harper young,harper.young@email.com,+1-935-913-7291,31.0,Male,New York,Silver,2490.9985714285717,7,48.0,64.0,Food,No,No,2026-01-23,2026-04-12,2324.93,2324.93,10462.2,2324.93
+54,violet bell,violet.bell@email.com,+1-706-609-4997,67.0,Female,Denver,Silver,1213.002,5,81.0,35.0,Entertainment,No,Yes,2024-07-22,2026-04-14,808.67,3639.0,808.67,808.67
+55,stephen king,stephen.king@email.com,+1-351-871-1090,26.0,Male,Austin,Platinum,762.9975000000001,4,52.0,32.0,Fashion,No,No,2026-01-24,2026-04-11,1831.2,406.93,406.93,406.93
+56,violet diaz,violet.diaz@email.com,+1-968-988-2746,43.0,Male,Phoenix,Regular,1062.0,6,23.0,60.0,Electronics,No,No,2025-08-29,2026-06-20,849.6,849.6,849.6,3823.2
+57,scott phillips,scott.phillips@email.com,+1-997-635-4585,70.0,Male,Jacksonville,Gold,1476.0,8,19.0,58.0,Entertainment,Yes,Yes,2024-10-11,2026-04-18,1574.4,7084.8,1574.4,1574.4
+58,timothy lewis,timothy.lewis@email.com,+1-380-912-9486,19.0,Female,Chicago,Silver,190.99875,8,18.0,43.0,Fashion,Yes,Yes,2025-02-23,2026-06-25,916.8,203.73,203.73,203.73
+59,harper rogers,harper.rogers@email.com,+1-675-251-5082,37.0,Female,New York,Regular,671.0,6,53.0,81.0,Fashion,No,Yes,2024-11-01,2026-04-18,2415.6,536.8,536.8,536.8
+60,hannah lopez,hannah.lopez@email.com,+1-324-667-3184,45.0,Male,New York,Silver,579.999,10,58.0,73.0,Fashion,Yes,Yes,2025-10-23,2026-04-16,3480.0,773.33,773.33,773.33
+61,james anderson,james.anderson@email.com,+1-675-883-9702,64.0,Female,San Diego,Gold,1878.0,8,52.0,26.0,Food,Yes,Yes,2024-11-05,2026-07-02,2003.2,2003.2,9014.4,2003.2
+62,evelyn lee,evelyn.lee@email.com,+1-772-809-6198,24.0,Female,San Jose,Silver,1347.0,3,67.0,83.0,Food,Yes,No,2026-05-02,2026-05-29,538.8,538.8,2424.6,538.8
+63,ellie diaz,ellie.diaz@email.com,+1-973-653-9270,61.0,Female,Austin,Platinum,637.9990909090909,11,77.0,67.0,Entertainment,Yes,No,2024-12-12,2026-05-12,935.73,4210.8,935.73,935.73
+64,brandon rodriguez,brandon.rodriguez@email.com,+1-636-761-8305,25.0,Female,Jacksonville,Regular,565.0020000000001,5,38.0,4.0,Entertainment,Yes,Yes,2025-11-30,2026-07-03,376.67,1695.0,376.67,376.67
+65,riley carter,riley.carter@email.com,+1-362-961-8777,64.0,Male,Fort Worth,Gold,562.99875,8,29.0,14.0,Entertainment,Yes,Yes,2025-05-02,2026-04-24,600.53,2702.4,600.53,600.53
+66,brandon reyes,brandon.reyes@email.com,+1-660-465-5050,52.0,Male,Jacksonville,Regular,1611.0,6,73.0,68.0,Fashion,No,Yes,2025-12-11,2026-05-22,5799.6,1288.8,1288.8,1288.8
+67,addison allen,addison.allen@email.com,+1-852-483-9540,31.0,Female,Columbus,Gold,172.00125,8,76.0,39.0,Entertainment,Yes,No,2026-06-30,2026-06-21,183.47,825.6,183.47,183.47
+68,larry johnson,larry.johnson@email.com,+1-696-841-4919,34.0,Female,Los Angeles,Silver,2121.0,9,38.0,8.0,Electronics,Yes,Yes,2025-04-13,2026-06-26,2545.2,2545.2,2545.2,11453.4
+69,ellie anderson,ellie.anderson@email.com,+1-481-650-2269,53.0,Female,Denver,Regular,1179.0,6,64.0,39.0,Fashion,Yes,Yes,2025-09-06,2026-05-31,4244.4,943.2,943.2,943.2
+70,ellie cooper,ellie.cooper@email.com,+1-930-492-4841,67.0,Male,Seattle,Regular,2007.0,5,42.0,21.0,Fashion,Yes,Yes,2025-11-14,2026-05-27,6021.0,1338.0,1338.0,1338.0
+71,andrew baker,andrew.baker@email.com,+1-478-543-6238,57.0,Male,Chicago,Regular,177.99857142857144,7,28.0,50.0,Food,Yes,Yes,2025-11-03,2026-05-15,166.13,166.13,747.6,166.13
+72,joseph nguyen,joseph.nguyen@email.com,+1-753-282-3267,21.0,Female,Detroit,Regular,1176.0,11,96.0,84.0,Fashion,Yes,Yes,2025-03-14,2026-06-15,7761.6,1724.8,1724.8,1724.8
+73,nora lee,nora.lee@email.com,+1-354-436-7275,19.0,Female,Indianapolis,Regular,184.002,5,131.0,81.0,Electronics,Yes,No,2025-10-18,2026-06-12,122.67,122.67,122.67,552.0
+74,jacob smith,jacob.smith@email.com,+1-910-356-4505,23.0,Female,San Diego,Silver,1699.002,5,44.0,75.0,Entertainment,Yes,Yes,2026-01-23,2026-06-21,1132.67,5097.0,1132.67,1132.67
+75,jack king,jack.king@email.com,+1-265-624-7678,59.0,Female,San Jose,Silver,459.0,4,72.0,6.0,Food,Yes,No,2024-12-03,2026-04-29,244.8,244.8,1101.6,244.8
+76,eric thompson,eric.thompson@email.com,+1-538-755-8633,21.0,Female,Los Angeles,Gold,884.0,6,62.0,41.0,Electronics,Yes,Yes,2025-08-04,2026-05-22,707.2,707.2,707.2,3182.4
+77,eric wilson,eric.wilson@email.com,+1-625-263-4388,46.0,Male,Denver,Platinum,195.0,3,15.0,78.0,Entertainment,Yes,No,2025-01-19,2026-05-01,78.0,351.0,78.0,78.0
+78,samuel hill,samuel.hill@email.com,+1-630-598-1320,35.0,Male,Dallas,Silver,1771.0,9,100.0,22.0,Entertainment,Yes,No,2026-03-13,2026-05-04,2125.2,9563.4,2125.2,2125.2
+79,zoe cook,zoe.cook@email.com,+1-983-789-7232,43.0,Female,San Antonio,Gold,951.9985714285714,7,64.0,22.0,Food,Yes,Yes,2025-12-10,2026-06-03,888.53,888.53,3998.4,888.53
+80,brooklyn sanchez,brooklyn.sanchez@email.com,+1-688-206-6763,61.0,Female,Houston,Gold,318.9985714285714,7,126.0,29.0,Entertainment,Yes,Yes,2024-11-24,2026-06-16,297.73,1339.8,297.73,297.73
+81,evelyn mitchell,evelyn.mitchell@email.com,+1-505-971-7389,51.0,Male,Boston,Regular,298.998,5,37.0,22.0,Fashion,Yes,Yes,2024-09-17,2026-06-05,897.0,199.33,199.33,199.33
+82,daniel reed,daniel.reed@email.com,+1-629-751-9947,27.0,Male,Seattle,Regular,518.0014285714286,7,52.0,17.0,Entertainment,Yes,No,2025-04-16,2026-05-07,483.47,2175.6,483.47,483.47
+83,addison smith,addison.smith@email.com,+1-817-425-8999,53.0,Female,Fort Worth,Regular,1794.9975,4,28.0,40.0,Electronics,Yes,Yes,2025-09-05,2026-05-31,957.33,957.33,957.33,4308.0
+84,brandon adams,brandon.adams@email.com,+1-424-479-8140,31.0,Male,Austin,Regular,1749.0,5,54.0,65.0,Electronics,No,No,2025-06-21,2026-05-25,1166.0,1166.0,1166.0,5247.0
+85,nicholas williams,nicholas.williams@email.com,+1-697-229-7371,48.0,Male,Portland,Regular,603.0,5,50.0,48.0,Fashion,No,Yes,2025-12-09,2026-06-23,1809.0,402.0,402.0,402.0
+86,joseph campbell,joseph.campbell@email.com,+1-544-884-7624,65.0,Female,Houston,Regular,994.0,6,11.0,34.0,Fashion,No,No,2025-04-07,2026-05-09,3578.4,795.2,795.2,795.2
+87,aria walker,aria.walker@email.com,+1-941-369-8657,32.0,Female,Las Vegas,Gold,2643.0,3,154.0,41.0,Electronics,No,No,2024-07-10,2026-06-28,1057.2,1057.2,1057.2,4757.4
+88,ava walker,ava.walker@email.com,+1-330-837-9751,25.0,Female,Boston,Gold,2340.0,4,23.0,71.0,Entertainment,Yes,No,2025-04-23,2026-06-19,1248.0,5616.0,1248.0,1248.0
+89,justin hernandez,justin.hernandez@email.com,+1-227-603-1444,31.0,Male,Las Vegas,Regular,820.99875,8,72.0,33.0,Electronics,No,Yes,2025-05-09,2026-06-09,875.73,875.73,875.73,3940.8
+90,david morales,david.morales@email.com,+1-285-858-8022,40.0,Female,Houston,Regular,906.0,9,63.0,24.0,Electronics,Yes,Yes,2026-03-01,2026-04-12,1087.2,1087.2,1087.2,4892.4
+91,robert cooper,robert.cooper@email.com,+1-338-672-3977,57.0,Male,San Jose,Regular,720.0,6,119.0,30.0,Fashion,Yes,No,2026-02-21,2026-04-12,2592.0,576.0,576.0,576.0
+92,thomas taylor,thomas.taylor@email.com,+1-251-466-7211,38.0,Male,Phoenix,Silver,2121.0,2,130.0,14.0,Fashion,Yes,Yes,2026-05-14,2026-05-18,2545.2,565.6,565.6,565.6
+93,gregory stewart,gregory.stewart@email.com,+1-535-416-8449,33.0,Female,Dallas,Silver,916.00125,8,26.0,21.0,Entertainment,Yes,Yes,2025-11-21,2026-04-27,977.07,4396.8,977.07,977.07
+94,larry perez,larry.perez@email.com,+1-534-545-7211,62.0,Female,Portland,Gold,678.0,8,31.0,73.0,Food,No,Yes,2024-12-07,2026-05-22,723.2,723.2,3254.4,723.2
+95,madison peterson,madison.peterson@email.com,+1-484-970-7906,35.0,Female,Chicago,Regular,1683.9975,4,80.0,11.0,Electronics,Yes,Yes,2025-10-08,2026-06-26,898.13,898.13,898.13,4041.6
+96,brooklyn diaz,brooklyn.diaz@email.com,+1-458-283-8705,64.0,Female,Indianapolis,Gold,849.0,8,29.0,44.0,Entertainment,No,Yes,2026-01-10,2026-05-18,905.6,4075.2,905.6,905.6
+97,sofia reed,sofia.reed@email.com,+1-219-967-9837,70.0,Female,Chicago,Platinum,214.0,3,165.0,46.0,Electronics,Yes,Yes,2025-11-15,2026-07-06,85.6,85.6,85.6,385.2
+98,skylar sanchez,skylar.sanchez@email.com,+1-253-558-4673,41.0,Male,San Francisco,Regular,1621.998,5,69.0,24.0,Entertainment,Yes,Yes,2025-06-26,2026-06-04,1081.33,4866.0,1081.33,1081.33
+99,audrey flores,audrey.flores@email.com,+1-865-270-1659,43.0,Male,Houston,Gold,949.0,6,103.0,71.0,Entertainment,Yes,No,2025-06-13,2026-04-30,759.2,3416.4,759.2,759.2
+100,layla mitchell,layla.mitchell@email.com,+1-972-231-5051,42.0,Male,Seattle,Silver,1928.0014285714285,7,29.0,67.0,Entertainment,Yes,No,2026-01-24,2026-06-22,1799.47,8097.6,1799.47,1799.47
+101,ryan morgan,ryan.morgan@email.com,+1-404-220-3496,62.0,Male,Indianapolis,Silver,1134.9975,4,103.0,9.0,Entertainment,No,No,2026-01-15,2026-05-10,605.33,2724.0,605.33,605.33
+102,zoey thomas,zoey.thomas@email.com,+1-444-329-8758,58.0,Female,San Antonio,Silver,667.0,9,18.0,49.0,Fashion,Yes,No,2025-07-29,2026-05-21,3601.8,800.4,800.4,800.4
+103,ella lewis,ella.lewis@email.com,+1-885-317-4571,46.0,Male,Portland,Gold,319.998,5,59.0,36.0,Entertainment,Yes,Yes,2025-10-17,2026-04-12,213.33,960.0,213.33,213.33
+104,robert baker,robert.baker@email.com,+1-676-916-5198,32.0,Female,Detroit,Silver,2059.0012500000003,8,58.0,59.0,Electronics,No,Yes,2025-06-02,2026-04-12,2196.27,2196.27,2196.27,9883.2
+105,michael bailey,michael.bailey@email.com,+1-985-577-3749,62.0,Female,Phoenix,Gold,1435.0,3,121.0,55.0,Fashion,Yes,Yes,2025-01-17,2026-06-04,2583.0,574.0,574.0,574.0
+106,avery lewis,avery.lewis@email.com,+1-820-821-2876,18.0,Female,Jacksonville,Platinum,1065.0,6,33.0,39.0,Entertainment,No,Yes,2026-06-22,2026-04-24,852.0,3834.0,852.0,852.0
+107,john martinez,john.martinez@email.com,+1-996-367-6096,42.0,Female,Indianapolis,Silver,1530.0,8,156.0,42.0,Fashion,Yes,No,2025-03-09,2026-05-20,7344.0,1632.0,1632.0,1632.0
+108,patrick davis,patrick.davis@email.com,+1-310-792-1420,24.0,Female,Detroit,Platinum,192.0,6,83.0,43.0,Electronics,Yes,Yes,2026-02-13,2026-04-17,153.6,153.6,153.6,691.2
+109,avery rodriguez,avery.rodriguez@email.com,+1-519-789-7149,26.0,Female,Fort Worth,Silver,1806.0,4,67.0,17.0,Fashion,Yes,Yes,2025-08-04,2026-05-21,4334.4,963.2,963.2,963.2
+110,william nelson,william.nelson@email.com,+1-606-932-4249,41.0,Male,Detroit,Silver,1855.99875,8,83.0,8.0,Entertainment,Yes,Yes,2025-03-04,2026-06-24,1979.73,8908.8,1979.73,1979.73
+111,isabella rogers,isabella.rogers@email.com,+1-277-806-4978,18.0,Female,Las Vegas,Silver,471.0,5,48.0,27.0,Electronics,Yes,Yes,2025-09-01,2026-04-12,314.0,314.0,314.0,1413.0
+112,paul scott,paul.scott@email.com,+1-304-913-5941,61.0,Male,Chicago,Regular,624.0,5,16.0,35.0,Electronics,Yes,No,2024-08-21,2026-06-08,416.0,416.0,416.0,1872.0
+113,hazel morales,hazel.morales@email.com,+1-900-814-2983,25.0,Male,Dallas,Gold,1010.0024999999999,4,24.0,57.0,Entertainment,No,Yes,2025-05-29,2026-05-08,538.67,2424.0,538.67,538.67
+114,sofia reed,sofia.reed@email.com,+1-779-242-6688,41.0,Female,Indianapolis,Silver,234.0,9,76.0,18.0,Entertainment,No,No,2025-11-04,2026-07-04,280.8,1263.6,280.8,280.8
+115,thomas stewart,thomas.stewart@email.com,+1-745-638-7071,28.0,Male,Indianapolis,Silver,757.0,6,31.0,66.0,Fashion,Yes,Yes,2026-06-30,2026-04-19,2725.2,605.6,605.6,605.6
+116,ella stewart,ella.stewart@email.com,+1-270-718-6590,68.0,Female,Washington,Platinum,1530.0,4,39.0,36.0,Entertainment,Yes,Yes,2025-08-02,2026-04-27,816.0,3672.0,816.0,816.0
+117,jason harris,jason.harris@email.com,+1-212-630-9031,34.0,Female,San Francisco,Regular,1718.0,6,100.0,53.0,Electronics,Yes,No,2025-08-07,2026-05-27,1374.4,1374.4,1374.4,6184.8
+118,richard gonzalez,richard.gonzalez@email.com,+1-308-643-6934,25.0,Female,Las Vegas,Silver,339.0,4,63.0,87.0,Food,Yes,Yes,2026-05-18,2026-04-20,180.8,180.8,813.6,180.8
+119,gregory parker,gregory.parker@email.com,+1-850-670-3506,52.0,Male,Nashville,Silver,2694.0,5,117.0,71.0,Electronics,No,No,2026-05-06,2026-06-09,1796.0,1796.0,1796.0,8082.0
+120,camila diaz,camila.diaz@email.com,+1-645-380-9548,52.0,Male,Fort Worth,Gold,1767.0,3,39.0,87.0,Fashion,Yes,No,2024-12-10,2026-04-16,3180.6,706.8,706.8,706.8
+121,jason reyes,jason.reyes@email.com,+1-866-476-9817,50.0,Female,Denver,Silver,1819.002,5,48.0,22.0,Entertainment,Yes,No,2025-11-27,2026-06-29,1212.67,5457.0,1212.67,1212.67
+122,skylar miller,skylar.miller@email.com,+1-993-695-8616,22.0,Male,Indianapolis,Gold,828.0,4,97.0,59.0,Entertainment,Yes,No,2024-08-14,2026-04-17,441.6,1987.2,441.6,441.6
+123,frank gonzalez,frank.gonzalez@email.com,+1-646-948-5397,59.0,Female,Houston,Gold,2053.99875,8,68.0,45.0,Fashion,No,Yes,2024-11-14,2026-05-09,9859.2,2190.93,2190.93,2190.93
+124,ava phillips,ava.phillips@email.com,+1-530-451-2419,56.0,Female,Jacksonville,Regular,2634.0,5,163.0,7.0,Electronics,Yes,No,2025-12-04,2026-04-09,1756.0,1756.0,1756.0,7902.0
+125,skylar baker,skylar.baker@email.com,+1-485-661-4995,58.0,Female,Dallas,Regular,819.0,6,25.0,67.0,Electronics,Yes,Yes,2026-03-04,2026-05-30,655.2,655.2,655.2,2948.4
+126,charlotte young,charlotte.young@email.com,+1-968-675-7209,45.0,Male,Denver,Silver,376.998,5,26.0,11.0,Food,Yes,No,2025-06-12,2026-04-15,251.33,251.33,1131.0,251.33
+127,anthony harris,anthony.harris@email.com,+1-544-229-9098,24.0,Male,Jacksonville,Regular,373.0,6,61.0,14.0,Entertainment,Yes,No,2024-10-18,2026-05-16,298.4,1342.8,298.4,298.4
+128,stephen edwards,stephen.edwards@email.com,+1-532-386-8988,26.0,Female,Dallas,Regular,771.0,5,68.0,91.0,Entertainment,Yes,No,2025-10-01,2026-06-23,514.0,2313.0,514.0,514.0
+129,harper diaz,harper.diaz@email.com,+1-417-563-5232,25.0,Male,San Antonio,Silver,3369.9985714285713,7,27.0,47.0,Fashion,Yes,No,2024-10-18,2026-06-20,14154.0,3145.33,3145.33,3145.33
+130,emily scott,emily.scott@email.com,+1-548-486-5526,29.0,Male,Columbus,Regular,2106.999,10,90.0,58.0,Entertainment,No,Yes,2025-12-28,2026-07-02,2809.33,12642.0,2809.33,2809.33
+131,mila young,mila.young@email.com,+1-769-210-9464,51.0,Female,Washington,Silver,552.0,4,73.0,90.0,Food,Yes,No,2025-10-18,2026-07-03,294.4,294.4,1324.8,294.4
+132,isabella cruz,isabella.cruz@email.com,+1-395-287-4954,50.0,Female,Denver,Silver,932.0,9,35.0,36.0,Fashion,Yes,No,2024-07-23,2026-05-30,5032.8,1118.4,1118.4,1118.4
+133,larry gonzalez,larry.gonzalez@email.com,+1-937-616-9004,65.0,Female,Charlotte,Silver,697.0,6,59.0,88.0,Electronics,No,No,2024-12-02,2026-05-05,557.6,557.6,557.6,2509.2
+134,james reed,james.reed@email.com,+1-768-976-4937,40.0,Female,San Francisco,Silver,1486.005,2,88.0,18.0,Food,No,No,2025-08-31,2026-06-23,396.27,396.27,1783.2,396.27
+135,emma lopez,emma.lopez@email.com,+1-907-687-9041,41.0,Male,Boston,Silver,755.0025,4,59.0,25.0,Entertainment,Yes,Yes,2026-05-09,2026-06-25,402.67,1812.0,402.67,402.67
+136,paul perez,paul.perez@email.com,+1-658-217-2524,54.0,Female,Phoenix,Regular,753.0,6,25.0,54.0,Fashion,Yes,Yes,2024-12-13,2026-06-07,2710.8,602.4,602.4,602.4
+137,jason morales,jason.morales@email.com,+1-501-426-7625,52.0,Female,Chicago,Silver,1245.0,5,12.0,92.0,Fashion,Yes,Yes,2024-09-22,2026-04-30,3735.0,830.0,830.0,830.0
+138,aubrey ramirez,aubrey.ramirez@email.com,+1-908-449-6016,61.0,Male,Jacksonville,Silver,135.99857142857144,7,23.0,64.0,Food,No,No,2025-10-31,2026-06-20,126.93,126.93,571.2,126.93
+139,layla davis,layla.davis@email.com,+1-879-795-7046,57.0,Female,Las Vegas,Gold,755.0,6,81.0,44.0,Electronics,Yes,Yes,2025-04-05,2026-05-19,604.0,604.0,604.0,2718.0
+140,abigail carter,abigail.carter@email.com,+1-684-766-9698,39.0,Female,Washington,Silver,995.0,6,57.0,62.0,Electronics,Yes,Yes,2025-06-19,2026-05-10,796.0,796.0,796.0,3582.0
+141,john roberts,john.roberts@email.com,+1-552-635-6419,44.0,Female,Boston,Platinum,991.9979999999999,5,40.0,84.0,Entertainment,Yes,Yes,2026-04-07,2026-05-21,661.33,2976.0,661.33,661.33
+142,madison collins,madison.collins@email.com,+1-560-919-8434,52.0,Female,Houston,Silver,560.001,10,35.0,11.0,Entertainment,Yes,No,2026-06-17,2026-04-13,746.67,3360.0,746.67,746.67
+143,joshua diaz,joshua.diaz@email.com,+1-477-513-5118,18.0,Female,Boston,Regular,3371.0014285714287,7,34.0,51.0,Fashion,Yes,Yes,2025-08-19,2026-04-09,14158.2,3146.27,3146.27,3146.27
+144,paisley bell,paisley.bell@email.com,+1-436-323-4155,52.0,Male,Detroit,Gold,2422.99875,8,41.0,30.0,Electronics,Yes,Yes,2026-05-04,2026-04-29,2584.53,2584.53,2584.53,11630.4
+145,gregory morales,gregory.morales@email.com,+1-523-322-9779,54.0,Male,San Francisco,Regular,456.0,4,47.0,53.0,Entertainment,Yes,Yes,2024-09-28,2026-05-15,243.2,1094.4,243.2,243.2
+146,evelyn harris,evelyn.harris@email.com,+1-980-906-4033,64.0,Female,Las Vegas,Regular,1645.0,3,53.0,38.0,Fashion,Yes,Yes,2025-06-09,2026-04-23,2961.0,658.0,658.0,658.0
+147,victoria ramirez,victoria.ramirez@email.com,+1-396-421-8933,31.0,Female,San Antonio,Regular,504.9975,4,27.0,46.0,Fashion,Yes,Yes,2026-05-29,2026-06-18,1212.0,269.33,269.33,269.33
+148,ava reed,ava.reed@email.com,+1-483-941-9595,20.0,Female,Fort Worth,Silver,981.0,3,26.0,36.0,Entertainment,Yes,Yes,2026-01-05,2026-05-15,392.4,1765.8,392.4,392.4
+149,ava green,ava.green@email.com,+1-811-489-2647,18.0,Female,Boston,Silver,1363.99875,8,51.0,81.0,Fashion,Yes,Yes,2025-08-01,2026-04-15,6547.2,1454.93,1454.93,1454.93
+150,ava miller,ava.miller@email.com,+1-398-503-4727,22.0,Female,San Jose,Regular,1969.0,3,60.0,81.0,Electronics,Yes,No,2025-05-28,2026-06-25,787.6,787.6,787.6,3544.2
+151,scott morris,scott.morris@email.com,+1-569-383-5952,43.0,Female,San Antonio,Gold,859.0,6,20.0,20.0,Entertainment,Yes,No,2026-04-10,2026-05-06,687.2,3092.4,687.2,687.2
+152,eric peterson,eric.peterson@email.com,+1-214-925-9751,31.0,Female,Columbus,Regular,840.0,6,90.0,42.0,Food,No,Yes,2025-11-19,2026-04-20,672.0,672.0,3024.0,672.0
+153,daniel davis,daniel.davis@email.com,+1-329-480-1745,56.0,Female,Phoenix,Regular,663.0,8,43.0,63.0,Food,No,No,2026-01-13,2026-05-16,707.2,707.2,3182.4,707.2
+154,lily hernandez,lily.hernandez@email.com,+1-255-766-5786,44.0,Female,Chicago,Regular,914.0,6,77.0,50.0,Electronics,No,Yes,2024-08-13,2026-06-02,731.2,731.2,731.2,3290.4
+155,emily rodriguez,emily.rodriguez@email.com,+1-914-329-9042,26.0,Female,Detroit,Regular,258.0,7,82.0,62.0,Electronics,Yes,No,2026-04-01,2026-07-03,240.8,240.8,240.8,1083.6
+156,brandon rodriguez,brandon.rodriguez@email.com,+1-305-212-5658,32.0,Female,Austin,Silver,3901.00125,8,57.0,66.0,Food,Yes,No,2024-09-16,2026-04-10,4161.07,4161.07,18724.8,4161.07
+157,frank walker,frank.walker@email.com,+1-680-690-8216,32.0,Male,Austin,Silver,408.0,4,42.0,52.0,Electronics,Yes,Yes,2025-03-05,2026-05-21,217.6,217.6,217.6,979.2
+158,layla thomas,layla.thomas@email.com,+1-548-388-1841,43.0,Male,Seattle,Silver,1296.9985714285715,7,93.0,27.0,Fashion,Yes,Yes,2026-04-15,2026-06-10,5447.4,1210.53,1210.53,1210.53
+159,justin young,justin.young@email.com,+1-458-689-2869,59.0,Male,Charlotte,Regular,1333.0,9,72.0,69.0,Fashion,Yes,Yes,2026-06-08,2026-05-12,7198.2,1599.6,1599.6,1599.6
+160,scott garcia,scott.garcia@email.com,+1-266-610-9056,30.0,Female,Jacksonville,Regular,1455.0,4,63.0,13.0,Food,No,Yes,2025-04-28,2026-05-12,776.0,776.0,3492.0,776.0
+161,leah hernandez,leah.hernandez@email.com,+1-275-790-1878,68.0,Male,Dallas,Regular,3198.0,7,35.0,82.0,Entertainment,Yes,No,2025-02-25,2026-06-07,2984.8,13431.6,2984.8,2984.8
+162,lillian morgan,lillian.morgan@email.com,+1-355-352-5978,49.0,Male,San Jose,Gold,1072.0,6,71.0,25.0,Food,Yes,Yes,2024-10-08,2026-05-22,857.6,857.6,3859.2,857.6
+163,kevin king,kevin.king@email.com,+1-287-454-2940,56.0,Female,Jacksonville,Regular,393.9975,4,84.0,5.0,Fashion,No,Yes,2025-09-25,2026-06-25,945.6,210.13,210.13,210.13
+164,donald green,donald.green@email.com,+1-771-982-7818,66.0,Male,Indianapolis,Silver,4150.998,5,29.0,72.0,Entertainment,No,Yes,2024-10-16,2026-04-11,2767.33,12453.0,2767.33,2767.33
+165,paul king,paul.king@email.com,+1-820-810-4697,69.0,Female,Philadelphia,Platinum,99.99857142857142,7,102.0,13.0,Electronics,No,Yes,2026-04-17,2026-05-21,93.33,93.33,93.33,420.0
+166,edward taylor,edward.taylor@email.com,+1-994-735-7232,49.0,Male,San Antonio,Silver,248.00142857142856,7,76.0,83.0,Entertainment,Yes,Yes,2026-06-28,2026-04-29,231.47,1041.6,231.47,231.47
+167,hazel hill,hazel.hill@email.com,+1-661-653-5871,21.0,Male,Columbus,Platinum,2968.99875,8,66.0,64.0,Entertainment,Yes,Yes,2024-10-18,2026-04-16,3166.93,14251.2,3166.93,3166.93
+168,jacob green,jacob.green@email.com,+1-802-639-6003,47.0,Female,Fort Worth,Regular,1187.0014285714283,7,45.0,25.0,Fashion,Yes,No,2025-10-05,2026-05-23,4985.4,1107.87,1107.87,1107.87
+169,isabella johnson,isabella.johnson@email.com,+1-782-835-1986,54.0,Male,San Diego,Gold,1670.0,6,122.0,45.0,Fashion,Yes,Yes,2024-12-25,2026-06-30,6012.0,1336.0,1336.0,1336.0
+170,jacob gonzalez,jacob.gonzalez@email.com,+1-824-957-2625,40.0,Male,San Jose,Silver,712.0,3,32.0,19.0,Entertainment,Yes,Yes,2026-06-18,2026-05-18,284.8,1281.6,284.8,284.8
+171,isabella cooper,isabella.cooper@email.com,+1-981-412-4457,56.0,Female,Dallas,Gold,581.0,6,57.0,67.0,Food,Yes,No,2025-05-10,2026-06-02,464.8,464.8,2091.6,464.8
+172,sofia cook,sofia.cook@email.com,+1-470-876-2330,62.0,Female,Seattle,Regular,278.00100000000003,10,45.0,62.0,Electronics,No,Yes,2024-08-06,2026-06-13,370.67,370.67,370.67,1668.0
+173,madison taylor,madison.taylor@email.com,+1-360-445-3847,32.0,Male,Los Angeles,Regular,3885.9975,4,21.0,64.0,Food,Yes,No,2024-08-24,2026-06-22,2072.53,2072.53,9326.4,2072.53
+174,george rodriguez,george.rodriguez@email.com,+1-765-276-3564,60.0,Female,Phoenix,Regular,480.0,10,30.0,34.0,Food,No,No,2025-06-05,2026-05-10,640.0,640.0,2880.0,640.0
+175,ella mitchell,ella.mitchell@email.com,+1-202-618-8381,46.0,Male,Phoenix,Silver,672.0,3,80.0,75.0,Electronics,No,Yes,2024-09-03,2026-06-26,268.8,268.8,268.8,1209.6
+176,joshua lee,joshua.lee@email.com,+1-905-808-8699,53.0,Male,Philadelphia,Gold,472.995,2,141.0,81.0,Entertainment,Yes,Yes,2025-05-04,2026-04-14,126.13,567.6,126.13,126.13
+177,ryan reed,ryan.reed@email.com,+1-498-233-4792,30.0,Female,Denver,Gold,826.9979999999999,5,83.0,62.0,Food,No,Yes,2025-07-10,2026-06-10,551.33,551.33,2481.0,551.33
+178,patrick hill,patrick.hill@email.com,+1-495-923-5632,49.0,Female,San Diego,Regular,749.0025,4,72.0,41.0,Food,Yes,Yes,2025-07-26,2026-04-16,399.47,399.47,1797.6,399.47
+179,benjamin peterson,benjamin.peterson@email.com,+1-919-664-2166,24.0,Female,San Francisco,Gold,1342.002,5,145.0,43.0,Food,Yes,Yes,2025-09-22,2026-04-17,894.67,894.67,4026.0,894.67
+180,emma bailey,emma.bailey@email.com,+1-903-439-5334,68.0,Female,Fort Worth,Regular,2369.0,6,28.0,44.0,Food,No,Yes,2024-12-04,2026-04-22,1895.2,1895.2,8528.4,1895.2
+181,kenneth wilson,kenneth.wilson@email.com,+1-840-803-4241,39.0,Female,New York,Regular,355.995,2,34.0,27.0,Entertainment,Yes,Yes,2025-03-15,2026-07-05,94.93,427.2,94.93,94.93
+182,harper king,harper.king@email.com,+1-635-317-9922,45.0,Female,Nashville,Regular,668.0025,4,64.0,61.0,Food,No,Yes,2026-01-02,2026-07-01,356.27,356.27,1603.2,356.27
+183,joseph wilson,joseph.wilson@email.com,+1-430-863-3441,19.0,Male,Washington,Gold,1252.0,6,58.0,84.0,Entertainment,Yes,No,2025-09-02,2026-05-26,1001.6,4507.2,1001.6,1001.6
+184,violet bailey,violet.bailey@email.com,+1-472-345-2169,59.0,Female,Indianapolis,Regular,183.0,4,59.0,53.0,Electronics,Yes,Yes,2026-02-07,2026-06-06,97.6,97.6,97.6,439.2
+185,evelyn wright,evelyn.wright@email.com,+1-261-369-6039,62.0,Male,San Antonio,Silver,1493.000769230769,13,40.0,23.0,Food,Yes,Yes,2026-06-06,2026-06-21,2587.87,2587.87,11645.4,2587.87
+186,joshua clark,joshua.clark@email.com,+1-809-966-5728,70.0,Male,Las Vegas,Gold,974.0,3,59.0,38.0,Food,Yes,Yes,2025-01-08,2026-04-26,389.6,389.6,1753.2,389.6
+187,audrey baker,audrey.baker@email.com,+1-649-327-8679,23.0,Male,Fort Worth,Regular,740.0025,4,16.0,67.0,Electronics,Yes,No,2024-12-29,2026-06-11,394.67,394.67,394.67,1776.0
+188,donald king,donald.king@email.com,+1-905-511-7594,45.0,Male,Houston,Silver,475.99799999999993,5,117.0,24.0,Fashion,Yes,Yes,2025-01-03,2026-06-29,1428.0,317.33,317.33,317.33
+189,eric morales,eric.morales@email.com,+1-478-712-9847,45.0,Female,Houston,Regular,753.0,10,64.0,71.0,Entertainment,No,No,2024-09-26,2026-04-28,1004.0,4518.0,1004.0,1004.0
+190,steven miller,steven.miller@email.com,+1-705-648-2317,61.0,Female,Philadelphia,Regular,549.0,6,85.0,69.0,Electronics,No,Yes,2026-03-24,2026-06-11,439.2,439.2,439.2,1976.4
+191,mia diaz,mia.diaz@email.com,+1-812-240-8078,61.0,Female,Denver,Silver,1173.0,4,61.0,71.0,Entertainment,Yes,No,2025-08-03,2026-04-23,625.6,2815.2,625.6,625.6
+192,scarlett garcia,scarlett.garcia@email.com,+1-952-530-5102,37.0,Male,Jacksonville,Regular,1206.0,4,88.0,59.0,Entertainment,No,Yes,2026-04-03,2026-06-10,643.2,2894.4,643.2,643.2
+193,john nelson,john.nelson@email.com,+1-226-293-4750,47.0,Male,Nashville,Silver,3715.0020000000004,5,55.0,36.0,Electronics,No,Yes,2026-06-07,2026-06-08,2476.67,2476.67,2476.67,11145.0
+194,thomas king,thomas.king@email.com,+1-890-789-1339,28.0,Male,San Antonio,Silver,1174.002,5,105.0,45.0,Fashion,No,Yes,2025-03-11,2026-05-26,3522.0,782.67,782.67,782.67
+195,daniel cruz,daniel.cruz@email.com,+1-983-888-5415,45.0,Male,San Jose,Silver,3268.99875,8,29.0,61.0,Food,Yes,Yes,2025-11-29,2026-06-19,3486.93,3486.93,15691.2,3486.93
+196,larry diaz,larry.diaz@email.com,+1-790-241-3870,42.0,Female,Denver,Gold,473.0014285714286,7,98.0,35.0,Entertainment,Yes,Yes,2026-02-25,2026-04-22,441.47,1986.6,441.47,441.47
+197,natalie johnson,natalie.johnson@email.com,+1-681-731-8245,56.0,Female,San Antonio,Silver,99.9975,4,98.0,45.0,Fashion,No,Yes,2024-12-01,2026-07-07,240.0,53.33,53.33,53.33
+198,joseph martinez,joseph.martinez@email.com,+1-484-385-8141,50.0,Female,Chicago,Silver,384.9985714285714,7,15.0,7.0,Food,Yes,No,2025-03-02,2026-06-02,359.33,359.33,1617.0,359.33
+199,alexander martin,alexander.martin@email.com,+1-850-703-2494,18.0,Male,Fort Worth,Silver,789.0,7,33.0,61.0,Electronics,No,No,2025-10-23,2026-06-19,736.4,736.4,736.4,3313.8
+200,eleanor jones,eleanor.jones@email.com,+1-681-556-7690,44.0,Female,Fort Worth,Regular,718.0020000000001,5,77.0,12.0,Entertainment,Yes,Yes,2026-04-22,2026-06-21,478.67,2154.0,478.67,478.67
+201,filo,filo@gmail.com,,,,,,2200.0,1,,,Electronics,No,,2026-07-08,2026-07-08,200.0,0.0,500.0,1500.0
